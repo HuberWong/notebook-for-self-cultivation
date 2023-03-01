@@ -1,0 +1,2 @@
+- [ ] 制作 静态链接库 .a 文件后，使用 file 命令查看其类型，并与 .so 文件相比较
+- [ ] 看书附录中的 big-endian 和 little-endian 字节序问题
